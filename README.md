@@ -37,12 +37,17 @@ This is the directory structure of SMHACL:
                  
 #### NOTE:  the computer on which this software will be run, will became Client.
 
--hadoop1 contains the .rpm file of hadoop1.
--hadoop2 contains the .tar.gz file of hadoop2.
--java contains the jdk.
--packages contains- hive(tar.gz), dockers(.rpm), pig(tar.gz) and splunk (.rpm)
+- hadoop1 contains the .rpm file of hadoop1.
 
-SMHACL.py is the starting program, which starts:-
+- hadoop2 contains the .tar.gz file of hadoop2.
+
+- java contains the jdk.
+
+- packages contains- hive(tar.gz), dockers(.rpm), pig(tar.gz) and splunk (.rpm)
+
+#### Running the Software:-
+
+- SMHACL.py is the starting program, which starts : 
 - info.py, for  getting informations of other connected system, like- free memory.
 - network_operation.py which provides ip list of all the remaining computers. except the one on which the script is running.
 - servr.py, it is responsible for creation of client. and sending information to client.py, which creates respective systems on other computer.
