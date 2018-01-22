@@ -35,6 +35,13 @@ This is the directory structure of SMHACL:
                  
                  |--packages  (it is a directory)
                  
+
+## Working Demonstration
+
+[![Working Demonstration](https://github.com/mr-ravin/Smart-Hadoop-Cluster-SMHACL/blob/master/SMHACL.gif)](https://github.com/mr-ravin/Smart-Hadoop-Cluster-SMHACL/blob/master/SMHACL.gif)
+
+[Certificate Provided from Linuxworld Informatics Private Limited.](https://github.com/mr-ravin/Smart-Hadoop-Cluster-SMHACL/blob/master/SMHACL-Legal-Document.pdf)  
+
 #### NOTE:  the computer on which this software will be run, will became Client.
 
 - hadoop1 contains the .rpm file of hadoop1.
