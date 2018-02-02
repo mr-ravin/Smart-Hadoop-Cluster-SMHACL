@@ -67,3 +67,7 @@ This is the directory structure of SMHACL:
 - servr.py creates the client on the current system.
 - client.py is send to all the other computers to make them that computer(i.e. name node, data node, job tracker, task tracker), as described by
 the instructions send by servr.py
+
+
+#### Note: Smart Hadoop Cluster-SMHACL can only be used freely for Academic Purposes after providing citation or deserved credits to this work. For other purposes, Permission is required from Mr. Ravin Kumar. 
+#### Email_id: mr.ravin_kumar@hotmail.com .
