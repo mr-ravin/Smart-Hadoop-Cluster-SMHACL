@@ -69,5 +69,5 @@ This is the directory structure of SMHACL:
 the instructions send by servr.py
 
 
-#### Note: Smart Hadoop Cluster-SMHACL can only be used freely after providing citation or deserved credits to this work. For other purposes, Permission is required from Mr. Ravin Kumar.
+#### Note: Smart Hadoop Cluster-SMHACL can only be used freely for academic research works, after providing citation or deserved credits to this work. For other purposes, Permission is required from Mr. Ravin Kumar.
 #### Email_id: mr.ravin_kumar@hotmail.com .
