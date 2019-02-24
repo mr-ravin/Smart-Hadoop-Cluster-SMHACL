@@ -4,10 +4,12 @@ This is an automated hadoop cluster building tool.which implements distributed c
 
 Smart Hadoop Cluster, is a tool for building hadoop cluster over the network, using very less amount of time.
 This tool uses the approach of distributed computing, for creating the cluster. SMHACL, is written in Python 2.7.
-SMHACL is created, designed and developed by Mr. Ravin Kumar. New approaches are welcome to share, following are
-his contact details : 
-[Email:](mr.ravin_kumar@hotmail.com)  
-[Linkedin:](https://in.linkedin.com/in/ravinkumar21)
+New approaches are welcome to share, following are the contact details :
+
+Author: [Ravin Kumar](https://mr-ravin.github.io)
+
+[Email](mr.ravin_kumar@hotmail.com)  
+[Linkedin](https://in.linkedin.com/in/ravinkumar21)
 
 This is the directory structure of SMHACL:
 
@@ -68,6 +70,4 @@ This is the directory structure of SMHACL:
 - client.py is send to all the other computers to make them that computer(i.e. name node, data node, job tracker, task tracker), as described by
 the instructions send by servr.py
 
-
-#### Note: Smart Hadoop Cluster-SMHACL can only be used freely for academic research works, after providing citation or deserved credits to this work. For other purposes, Permission is required from Mr. Ravin Kumar.
-#### Email_id: mr.ravin_kumar@hotmail.com .
+#### Note: This work can be used freely for academic research work and individual non-commercial projects, please do provide citation and/or deserved credits to this work. For Industrial and commercial use permission is required from the Author.
