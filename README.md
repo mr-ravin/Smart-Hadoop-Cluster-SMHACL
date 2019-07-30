@@ -4,12 +4,9 @@ This is an automated hadoop cluster building tool.which implements distributed c
 
 Smart Hadoop Cluster, is a tool for building hadoop cluster over the network, using very less amount of time.
 This tool uses the approach of distributed computing, for creating the cluster. SMHACL, is written in Python 2.7.
-New approaches are welcome to share, following are the contact details :
 
 Author: [Ravin Kumar](https://mr-ravin.github.io)
 
-[Email](mr.ravin_kumar@hotmail.com)  
-[Linkedin](https://in.linkedin.com/in/ravinkumar21)
 
 This is the directory structure of SMHACL:
 
