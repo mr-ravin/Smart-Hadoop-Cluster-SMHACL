@@ -67,4 +67,4 @@ This is the directory structure of SMHACL:
 - client.py is send to all the other computers to make them that computer(i.e. name node, data node, job tracker, task tracker), as described by
 the instructions send by servr.py
 
-#### Note: This work can be used freely for academic research work and individual non-commercial projects, please do provide citation and/or deserved credits to this work. For Industrial and commercial use permission is required from the Author.
+#### Note: This work can be used freely after providing citation and/or deserved credits to this work. Please use it at your own risk !!!
