@@ -7,33 +7,22 @@ This tool uses the approach of distributed computing, for creating the cluster. 
 
 #### Author: [Ravin Kumar](https://mr-ravin.github.io)
 
-
-This is the directory structure of SMHACL:
-
-    SMHACL
-
-      |--SMHACL.py
-  
-      |--servr.py
-  
-      |--client.py
-  
-      |--network_operation.py
-  
-      |--info.py
-  
+#### Directory Architecture of SMHACL:
+```
+    SMHACL/
       |
-  
-      |--softwares
-  
-        |--------|--hadoop1   (it is a directory)
-        
-                 |--hadoop2   (it is a directory)
+      |--SMHACL.py
+      |--servr.py
+      |--client.py
+      |--network_operation.py
+      |--info.py
+      |--softwares/        (it is a directory)
+             |--hadoop1/   (it is a directory)            
+             |--hadoop2/   (it is a directory)
+             |--java/      (it is a directory)               
+             |--packages/  (it is a directory)
                  
-                 |--java      (it is a directory)
-                 
-                 |--packages  (it is a directory)
-                 
+```
 
 #### NOTE:  the computer on which this software will be run, will became Client.
 
